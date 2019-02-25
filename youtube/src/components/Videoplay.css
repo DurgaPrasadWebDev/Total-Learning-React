@@ -1,0 +1,11 @@
+.videostyle
+{
+    margin-top: 10px;
+    width:950px;
+    height: 500px;
+}
+iframe
+{
+    width: 950px;
+    height: 500px;
+}

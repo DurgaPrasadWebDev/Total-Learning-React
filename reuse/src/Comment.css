@@ -1,0 +1,33 @@
+.comment
+{
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    
+}
+.imagestyle
+{
+    text-decoration: none;
+    float: left;
+    margin-right: 10px;
+    height: 50px;
+    width: 50px;
+}
+.imag
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 25%;
+}
+.author
+{
+    color: black;
+    float: left;
+    margin-right: 10px;
+}
+.timeDetail
+{
+    color: aqua;
+    margin-bottom: 10px;
+    
+}

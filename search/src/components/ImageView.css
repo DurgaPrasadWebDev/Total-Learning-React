@@ -1,0 +1,23 @@
+.imageviewstyle
+{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.imageviewstyle img{
+    border: 1px solid orange;
+    width: 300px;
+    height: 300px;
+    margin-left: 10px;
+}
+.imageviewstyle img:hover
+{
+    padding: 10px;
+    border: 3px dotted brown;
+}
+.imageviewstyle p
+{  
+    margin-left: 330px;
+}

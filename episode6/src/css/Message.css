@@ -1,0 +1,38 @@
+.Message
+{
+    margin:10px;
+    border:1px solid black;
+    padding:5px;
+}
+.messagecontent
+{
+    margin-left: 5px;
+}
+.messagecontent h1
+{
+    font-weight: bold;
+    color: blue;
+}
+.messagecontent p
+{
+    text-indent: 30px;
+}
+#btt
+{
+    padding: 5px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    color:black;
+    border-radius: 5px;
+}
+.cord
+{
+    float: right;
+    display: normal;
+    margin-left:93%;
+    width:50px;
+    height: 50px;
+    padding:5px;    
+    background-color: black;
+    border-radius: 0px 0px 0px 100px; 
+}

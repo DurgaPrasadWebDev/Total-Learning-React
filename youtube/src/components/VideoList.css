@@ -1,0 +1,12 @@
+.totalvideo
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: none;
+}
+.totalvideo1
+{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    flex-direction: column;
+}

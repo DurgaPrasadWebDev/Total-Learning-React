@@ -1,0 +1,39 @@
+.searchcontainer
+{
+    margin: 0;
+    padding: 0;
+}
+.head
+{
+    text-align: center;
+    color: chocolate; 
+}   
+.searchbox
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid orange;
+    height: 8vmax;
+}
+.searchboxform
+{
+    display: block; 
+    margin-top:3vmax;
+    margin-bottom: 3max;
+}
+input
+{
+    display: block;
+    width: 400px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+input:focus
+{
+    border-color: blue;
+    border-width: 3px;
+    border-radius: 10px;
+    text-indent: 20px;
+}
